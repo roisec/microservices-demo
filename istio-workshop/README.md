@@ -24,7 +24,7 @@ kubectl label namespace hipster-app istio-injection=enabled
 cd helm-chart
 helm install onlineboutique . -n hipster-app
 cd ../istio-workshop
-    kubectl apply -f addons-ingress.yaml
+kubectl apply -f addons-ingress.yaml
 kubectl apply -f frontend-ingress-gateway.yaml
 ```
 Traffic splitting
