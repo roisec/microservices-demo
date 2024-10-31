@@ -1,4 +1,3 @@
-```markdown
 # Application Deployment and Traffic Management with Istio and Kubernetes
 
 ## Prerequisites
