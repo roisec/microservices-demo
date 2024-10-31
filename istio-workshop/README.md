@@ -1,5 +1,3 @@
-Here's the complete README in one Markdown code block, including all sections and explanations:
-
 ```markdown
 # Application Deployment and Traffic Management with Istio and Kubernetes
 
